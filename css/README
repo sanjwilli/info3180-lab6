@@ -1,0 +1,16 @@
+INFO3180 - Lab 6 
+
+NOTE TO SELF:
+	How to run Angular Js.
+
+	1. (Optional). The Node.js Method:
+		Download and Install Node.js 
+		Now open Terminal and enter the following "http-server"
+		and that should work.
+		Now open a browser and enter the url "localhost:8080"
+		(Also to not Node.js works on port 8080) - Not fully sure on that.
+
+	2. (Optional). The Python Method:
+		Open Terminal and enter to the following "python -m SimpleHTTPServer 8080"
+		and that should work.
+		Now open a browser and enter the url "localhost:8080"
